@@ -2,7 +2,7 @@
 <h3 align="center">A Python & Java nerd with UI/UX skills.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedustorm&label=Profile%20Views&color=b4fdf5&style=plastic" alt="vedustorm" /> </p>
 <img src="banner_github.png" alt="GitHub Banner" width=*100%"
-
+</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedustorm" alt="vedustorm" /></a> </p>
 
 - 🔭 I’m currently working on [Encrypted Chat Application with Web Option](https://github.com/VeduStorm/encrypted-chat-app)
