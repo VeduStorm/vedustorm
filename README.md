@@ -1,10 +1,12 @@
 <h1 align="center">Vedant Gandhi</h1>
 <h3 align="center">A Python & Java nerd with UI/UX skills.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedustorm&label=Profile%20Views&color=b4fdf5&style=plastic" alt="vedustorm" /> </p>
 <img src="banner_github.png" alt="GitHub Banner" width="100%"
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedustorm" alt="vedustorm" /></a> </p>
 
+# 💫 About Me:
+I am a Python and Java developer passionate about secure software and user-centric design. With experience in UI/UX, web development, and AI tools, he builds functional yet aesthetic projects—currently focused on an Encrypted Chat App. He shares insights via blogs, engages in open-source, and loves collaborating on creative tech solutions.
+</br>
 - 🔭 I’m currently working on [Encrypted Chat Application with Web Option](https://github.com/VeduStorm/encrypted-chat-app)
 
 - 🌱 I’m currently learning **UI/UX, Java**
@@ -39,9 +41,6 @@
 <a href="https://discord.gg/wEzAHAVEJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wEzAHAVEJw" height="30" width="40" /></a>
 </p>
 
-# 💫 About Me:
-Vedant Gandhi is a Python and Java developer passionate about secure software and user-centric design. With experience in UI/UX, web development, and AI tools, he builds functional yet aesthetic projects—currently focused on an Encrypted Chat App. He shares insights via blogs, engages in open-source, and loves collaborating on creative tech solutions.
-
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -62,8 +61,4 @@ Vedant Gandhi is a Python and Java developer passionate about secure software an
 ---
 [![](https://visitcount.itsvg.in/api?id=vedustorm&icon=2&color=2)](https://visitcount.itsvg.in)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedustorm&show_icons=true&theme=onedark&title_color=ffffff&text_color=b4fdf5&bg_color=724c2c&hide_border=true&locale=en&layout=compact" alt="vedustorm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedustorm&show_icons=true&theme=onedark&title_color=ffffff&text_color=b4fdf5&bg_color=724c2c&hide_border=true&locale=en" alt="vedustorm" /></p>
 <img src="https://raw.githubusercontent.com/VeduStorm/VeduStorm/output/snake.svg" alt="Snake animation" />
