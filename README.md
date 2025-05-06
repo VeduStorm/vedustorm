@@ -1,3 +1,4 @@
+<h1 align="center">Vedant Gandhi</h1>
 <h3 align="center">A Python & Java nerd with UI/UX skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedustorm&label=Profile%20Views&color=b4fdf5&style=plastic" alt="vedustorm" /> </p>
