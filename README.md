@@ -1,8 +1,11 @@
 <h1 align="center">Vedant Gandhi</h1>
 <h3 align="center">A Python & Java nerd with UI/UX skills.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedustorm&label=Profile%20Views&color=b4fdf5&style=plastic" alt="vedustorm" /> </p>
 <img src="banner_github.png" alt="GitHub Banner" width="100%"
 </br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedustorm" alt="vedustorm" /></a> </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vedustorm&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
 I am a Python and Java developer passionate about secure software and user-centric design. With experience in UI/UX, web development, and AI tools, he builds functional yet aesthetic projects—currently focused on an Encrypted Chat App. He shares insights via blogs, engages in open-source, and loves collaborating on creative tech solutions.
@@ -49,16 +52,10 @@ I am a Python and Java developer passionate about secure software and user-centr
 ![](https://nirzak-streak-stats.vercel.app/?user=vedustorm&theme=gruvbox_light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedustorm&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vedustorm&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vedustorm&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=vedustorm&icon=2&color=2)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 <img src="https://raw.githubusercontent.com/VeduStorm/VeduStorm/output/snake.svg" alt="Snake animation" />
