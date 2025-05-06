@@ -40,33 +40,25 @@
 </p>
 
 # 💫 About Me:
-<br>
+Vedant Gandhi is a Python and Java developer passionate about secure software and user-centric design. With experience in UI/UX, web development, and AI tools, he builds functional yet aesthetic projects—currently focused on an Encrypted Chat App. He shares insights via blogs, engages in open-source, and loves collaborating on creative tech solutions.
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vedustorm&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vedustorm&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedustorm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vedustorm&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=vedustorm&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vedustorm&theme=gruvbox_light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedustorm&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vedustorm&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vedustorm&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vedustorm&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vedustorm&icon=2&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vedant-gandhi) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedustorm&show_icons=true&theme=onedark&title_color=ffffff&text_color=b4fdf5&bg_color=724c2c&hide_border=true&locale=en&layout=compact" alt="vedustorm" /></p>
 
