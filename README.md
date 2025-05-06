@@ -47,4 +47,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedustorm&show_icons=true&theme=onedark&title_color=ffffff&text_color=b4fdf5&bg_color=724c2c&hide_border=true&locale=en&layout=compact" alt="vedustorm" /></p>
 
+<img src="https://raw.githubusercontent.com/VeduStorm/VeduStorm/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedustorm&show_icons=true&theme=onedark&title_color=ffffff&text_color=b4fdf5&bg_color=724c2c&hide_border=true&locale=en" alt="vedustorm" /></p>
