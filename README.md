@@ -31,12 +31,6 @@ Currently working on an **Encrypted Chat App** and always open to collaboration 
 
 ---
 
-### ✍️ Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://codepen.io/vedant-gandhi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
