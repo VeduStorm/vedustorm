@@ -22,6 +22,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedustorm&show_icons=true&locale=en&layout=compact" alt="vedustorm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedustorm&show_icons=true&theme=onedark&title_color=ffffff&text_color=b4fdff&bg_color=724c2c&hide_border=true&locale=en&layout=compact" alt="vedustorm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedustorm&show_icons=true&theme=dark&title_color=e1d5d5&text_color=ada2c3&bg_color=c69595&hide_border=true&locale=en" alt="vedustorm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedustorm&show_icons=true&theme=onedark&title_color=ffffff&text_color=b4fdf5&bg_color=724c2c&hide_border=true&locale=en" alt="vedustorm" /></p>
