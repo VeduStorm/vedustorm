@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with [Encrypted Chat Application with Web Option](https://github.com/VeduStorm/encrypted-chat-app)
 
-- 👨‍💻 All of my projects are available at [<a href="https://github.com/VeduStorm">Github</a>](<a href="https://github.com/VeduStorm">Github</a>)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/VeduStorm)
 
-- 📝 I regularly write articles on [<a href="https://hashnode.com/@vedustorm">Hashnode</a>](<a href="https://hashnode.com/@vedustorm">Hashnode</a>)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@vedustorm)
 
 - 💬 Ask me about **python, java, ui/ux**
 
-- 📫 How to reach me **<a href="mailto:vedant.storm@gmail.com">E-Mail </a> <a href="https://www.snapchat.com/add/yeui777?share_id=9zyh0OuUGLQ&locale=en-IN-u-fw-mon-mu-celsius"> Snapchat</a>**
+- 📫 How to reach me **<a href="mailto:vedant.storm@gmail.com">E-Mail  </a> <a href="https://www.snapchat.com/add/yeui777?share_id=9zyh0OuUGLQ&locale=en-IN-u-fw-mon-mu-celsius"> Snapchat</a>**
 
 - ⚡ Fun fact **I am very friendly and always ready to collaborate**
 
