@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with [Encrypted Chat Application with Web Option](https://github.com/VeduStorm/encrypted-chat-app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/VeduStorm](https://github.com/VeduStorm)
+- 👨‍💻 All of my projects are available at [<a href="https://github.com/VeduStorm">Github</a>](<a href="https://github.com/VeduStorm">Github</a>)
 
-- 📝 I regularly write articles on [https://hashnode.com/@vedustorm](https://hashnode.com/@vedustorm)
+- 📝 I regularly write articles on [<a href="https://hashnode.com/@vedustorm">Hashnode</a>](<a href="https://hashnode.com/@vedustorm">Hashnode</a>)
 
 - 💬 Ask me about **python, java, ui/ux**
 
-- 📫 How to reach me **vedant.storm@gmail.com**
+- 📫 How to reach me **<a href="mailto:vedant.storm@gmail.com">E-Mail </a> <a href="https://www.snapchat.com/add/yeui777?share_id=9zyh0OuUGLQ&locale=en-IN-u-fw-mon-mu-celsius"> Snapchat</a>**
 
 - ⚡ Fun fact **I am very friendly and always ready to collaborate**
 
@@ -34,7 +34,7 @@
 <a href="https://stackoverflow.com/users/25187677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25187677" height="30" width="40" /></a>
 <a href="https://hashnode.com/@vedustorm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vedustorm" height="30" width="40" /></a>
 <a href="https://medium.com/@vedant.storm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vedant.storm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@vedantgandhi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vedantgandhi05" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/vedantgandhi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vedantgandhi05" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vedustorm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedustorm" height="30" width="40" /></a>
 <a href="https://discord.gg/wEzAHAVEJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wEzAHAVEJw" height="30" width="40" /></a>
 </p>
