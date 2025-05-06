@@ -1,14 +1,15 @@
 name: Latest blog post workflow
 on: 
-    schedule:
-        - cron: '0 * * * *'
+  schedule:
+    - cron: '0 12 * * *'  # Runs once daily
 jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://dev.to/feed/vedustorm, https://medium.com/feed/@vedant.storm"
+  update-readme-with-blog: 
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with: 
+          max_post_count: 4
+          feed_list: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fdev.to%2Ffeed%2Fvedustorm&api_key=z7tkbuzl2zllnkqcr4zezcc8oj7rctlzaph6mxaj, https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40vedant.storm&api_key=z7tkbuzl2zllnkqcr4zezcc8oj7rctlzaph6mxaj"
+          fail_on_parsing_error: false  # Prevents failures
+          comment_tag: "blog-posts"  # Optional: Organizes updates
