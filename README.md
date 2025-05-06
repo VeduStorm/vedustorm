@@ -1,6 +1,6 @@
 <h1 align="center">Vedant Gandhi</h1>
 <h3 align="center">A Python & Java nerd with UI/UX skills.</h3>
-
+<img src="banner_github.png" alt="GitHub Banner" width=*100%"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedustorm&label=Profile%20Views&color=b4fdf5&style=plastic" alt="vedustorm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedustorm" alt="vedustorm" /></a> </p>
