@@ -15,7 +15,7 @@
 <a href="https://dev.to/vedustorm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vedustorm" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25187677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25187677" height="30" width="40" /></a>
 <a href="https://medium.com/@vedant.storm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vedant.storm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@vedantgandhi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vedantgandhi05" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/vedantgandhi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vedantgandhi05" height="30" width="40" /></a>
 <a href="https://discord.gg/wEzAHAVEJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wEzAHAVEJw" height="30" width="40" /></a>
 </p>
 
