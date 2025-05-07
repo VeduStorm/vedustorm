@@ -56,10 +56,6 @@ Currently working on an **Encrypted Chat App** and always open to collaboration 
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POSTS:START -->
-- [Who is Vedustorm? | My Journey, Projects, and How to Reach Me](https://vedustorm.hashnode.dev/introduction) • 2025-05-07
-- [QRX3 AI Chatbot Launching Soon](https://vedustorm.hashnode.dev/qrx3-ai-chatbot) • 2025-05-07
-<!-- BLOG-POSTS:END -->
 
 ---
 
@@ -85,3 +81,7 @@ Currently working on an **Encrypted Chat App** and always open to collaboration 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VeduStorm/VeduStorm/output/snake.svg" alt="Snake animation" />
 </p>
+<!-- BLOG-POSTS:START -->
+- [Who is Vedustorm? | My Journey, Projects, and How to Reach Me](https://vedustorm.hashnode.dev/introduction) • 2025-05-07
+- [QRX3 AI Chatbot Launching Soon](https://vedustorm.hashnode.dev/qrx3-ai-chatbot) • 2025-05-07
+<!-- BLOG-POSTS:END -->
