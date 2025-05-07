@@ -25,7 +25,8 @@ Currently working on an **Encrypted Chat App** and always open to collaboration 
 - 🤝 Open to help/ideas for: [Same project above](https://github.com/VeduStorm/encrypted-chat-app)  
 - 👨‍💻 Explore all my projects: [GitHub Profile](https://github.com/VeduStorm)  
 - 📝 I write articles on: [Hashnode](https://hashnode.com/@vedustorm)  
-- 💬 Ask me about: **Python, Java, UI/UX**  
+- 💬 Ask me about: **Python, Java, UI/UX**
+- 🔗 To learn more about me, visit my [About Me](https://vedustorm.hashnode.dev/about-me) page on Hashnode.
 - 📫 Reach me: [Email](mailto:vedant.storm@gmail.com) | [Snapchat](https://www.snapchat.com/add/yeui777?share_id=9zyh0OuUGLQ&locale=en-IN-u-fw-mon-mu-celsius)  
 - ⚡ Fun fact: I’m super friendly and always excited to collaborate on fun projects!
 
