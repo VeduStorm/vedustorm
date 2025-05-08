@@ -55,7 +55,7 @@ Currently working on an **Encrypted Chat App** and always open to collaboration 
 ---
 
 ## 📝 Latest Blog Posts
-- [QRX3 AI Chatbot is li e](https://vedustorm.hashnode.dev/qrx3-is-live) • 2025-05-08
+- [QRX3 AI Chatbot is live](https://vedustorm.hashnode.dev/qrx3-ai-chatbot-is-now-live) • 2025-05-08
 - [QRX3 AI Chatbot Launching Soon](https://vedustorm.hashnode.dev/qrx3-ai-chatbot) • 2025-05-07
 - [Who is Vedustorm? | My Journey, Projects, and How to Reach Me](https://vedustorm.hashnode.dev/introduction) • 2025-05-07
 
