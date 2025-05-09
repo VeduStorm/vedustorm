@@ -55,6 +55,7 @@ Currently working on an **Encrypted Chat App** and always open to collaboration 
 ---
 
 ## 📝 Latest Blog Posts
+- [QRX3 Beta MacOS Application Released](qrx3-ai-chatbot-v10beta1-macos) • 2025-05-09
 - [Shadow Crypt Launching Soon](https://vedustorm.hashnode.dev/shadow-crypt) • 2025-05-08
 - [QRX3 AI Chatbot is live](https://vedustorm.hashnode.dev/qrx3-ai-chatbot-is-now-live) • 2025-05-08
 - [QRX3 AI Chatbot Launching Soon](https://vedustorm.hashnode.dev/qrx3-ai-chatbot) • 2025-05-07
