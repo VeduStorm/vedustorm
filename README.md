@@ -55,6 +55,7 @@ Currently working on an **Encrypted Chat App** and always open to collaboration 
 ---
 
 ## 📝 Latest Blog Posts
+- [DigiSign Launching Soon](https://vedustorm.hashnode.dev/digi-sign) • 2025-05-25
 - [Beta Testers are you ready!](https://vedustorm.hashnode.dev/beta-testers-get-ready) • 2025-05-13
 - [ShadowCrypt Update!!](https://vedustorm.hashnode.dev/shadowcrypt-update) • 2025-05-10
 - [QRX3 Beta MacOS Application Released](https://vedustorm.hashnode.dev/qrx3-ai-chatbot-v10beta1-macos) • 2025-05-09
