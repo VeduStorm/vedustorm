@@ -19,10 +19,10 @@
 I'm a Python and Java developer passionate about building secure, user-centric applications. With experience in UI/UX design, web development, and AI-based tools, I focus on delivering functional and beautiful software.  
 Currently working on an **Encrypted Chat App** and always open to collaboration and feedback!
 
-- 🔭 Working on: [Encrypted Chat App with Web Version](https://github.com/VeduStorm/encrypted-chat-app)  
+- 🔭 Working on: [ShadowCrypt](https://github.com/VeduStorm/shadow-crypt)  
 - 🌱 Learning: **UI/UX Design, Advanced Java**  
-- 👯 Collaborating on: [Encrypted Chat App](https://github.com/VeduStorm/encrypted-chat-app)  
-- 🤝 Open to help/ideas for: [Same project above](https://github.com/VeduStorm/encrypted-chat-app)  
+- 👯 Collaborating on: [ShadowCrypt](https://github.com/VeduStorm/shadow-crypt)
+- 🤝 Open to help/ideas for: [ShadowCrypt](https://github.com/VeduStorm/shadow-crypt) 
 - 👨‍💻 Explore all my projects: [GitHub Profile](https://github.com/VeduStorm)  
 - 📝 I write articles on: [Hashnode](https://hashnode.com/@vedustorm)  
 - 💬 Ask me about: **Python, Java, UI/UX**
