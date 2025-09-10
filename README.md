@@ -19,13 +19,13 @@
 I'm a Python and Java developer passionate about building secure, user-centric applications. With experience in UI/UX design, web development, and AI-based tools, I focus on delivering functional and beautiful software.  
 Currently working on an **Encrypted Chat App** and always open to collaboration and feedback!
 
-- 🔭 Working on: [ShadowCrypt](https://github.com/VeduStorm/shadow-crypt)  
+- 🔭 Working on: **Private Project**  
 - 🌱 Learning: **UI/UX Design, Advanced Java**  
-- 👯 Collaborating on: [ShadowCrypt](https://github.com/VeduStorm/shadow-crypt)
-- 🤝 Open to help/ideas for: [ShadowCrypt](https://github.com/VeduStorm/shadow-crypt) 
+- 👯 Collaborating on: **Private Project**  
+- 🤝 Open to help/ideas for: N/A
 - 👨‍💻 Explore all my projects: [GitHub Profile](https://github.com/VeduStorm)  
 - 📝 I write articles on: [Hashnode](https://hashnode.com/@vedustorm)  
-- 💬 Ask me about: **Python, Java, UI/UX**
+- 💬 Ask me about: **Python, Java, TypeScript, UI/UX**
 - 🔗 To learn more about me, visit my [About Me](https://vedustorm.hashnode.dev/about-me) page on Hashnode.
 - 📫 Reach me: [Email](mailto:vedant.storm@gmail.com) | [Discord](https://discordapp.com/users/1104705926558130207)  
 - ⚡ Fun fact: I’m super friendly and always excited to collaborate on fun projects!
