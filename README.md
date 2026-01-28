@@ -1,5 +1,5 @@
 <h1 align="center">Vedant Gandhi</h1>
-<h3 align="center">A Python & Java nerd with a passion for UI/UX</h3>
+<h3 align="center">Creative Python/JS Dev</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedustorm&label=Profile%20Views&color=b4fdf5&style=plastic" alt="vedustorm" />
@@ -16,8 +16,8 @@
 
 ## 💫 About Me
 
-I'm a Python and Java developer passionate about building secure, user-centric applications. With experience in UI/UX design, web development, and AI-based tools, I focus on delivering functional and beautiful software.  
-Currently working on an **Encrypted Chat App** and always open to collaboration and feedback!
+I'm a Python and JS developer passionate about building secure, user-centric applications. With experience in discord bot development, security based development, and AI-based tools, I focus on delivering functional and beautiful software.  
+Currently working on an **Private Project** and always open to collaboration and feedback!
 
 - 🔭 Working on: **Private Project**  
 - 🌱 Learning: **~~UI/UX Design~~, Advanced Javascript**  
@@ -32,14 +32,8 @@ Currently working on an **Encrypted Chat App** and always open to collaboration 
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://codepen.io/vedant-gandhi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://dev.to/vedustorm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/25187677" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@vedustorm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
-  <a href="https://medium.com/@vedant.storm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@vedantgandhi05" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/vedustorm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/1104705926558130207" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1464193609644376218" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 ---
