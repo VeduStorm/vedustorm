@@ -9,20 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Grants the GITHUB_TOKEN permission to push to the repo
+      contents: write
     steps:
-      # 1. Checkout the repository to initialize the Git workspace
       - uses: actions/checkout@v4
 
-      # 2. Generate the snake SVG
+      # Uses the custom PAT to fetch private/org data
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: VeduStorm
-          # Use the built-in GITHUB_TOKEN instead of a custom secret
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           outputs: dist/snake.svg?palette=github-dark
 
-      # 3. Push the generated SVG to the output branch
+      # Pushes the generated SVG back to the repo using the default token
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
