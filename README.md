@@ -19,22 +19,14 @@
 I'm a Python and JS developer passionate about building secure, user-centric applications. With experience in discord bot development, security based development, and AI-based tools, I focus on delivering functional and beautiful software.  
 Currently working on an **Private Project** and always open to collaboration and feedback!
 
-- 🔭 Working on: **Jarvis [The future]**  
-- 🌱 Learning: **AI/ML**  
-- 👯 Collaborating on: **Jarvis,** **frontend**  
-- 🤝 Open to help/ideas for: Jarvis
+- 🔭 Working on: **[NovaX](https://github.com/lunedusk/NovaX)**  
+- 🌱 Learning: **Cross Hosting with discord.js**  
+- 👯 Collaborating on: **[NovaX](https://github.com/lunedusk/NovaX)**  
+- 🤝 Open to help/ideas for: [NovaX](https://github.com/lunedusk/NovaX)
 - 👨‍💻 Explore all my projects: [GitHub Profile](https://github.com/VeduStorm)  
-- 💬 Ask me about: **Python, AI/ML**
-- 📫 Reach me: [Email](mailto:v9edant@gmail.com) | [Discord](https://discord.com/users/1414373639826178120)  
+- 💬 Ask me about: **Discord Bots**
+- 📫 Reach me: [Email](mailto:vedant.storm@gmail.com)
 - ⚡ Fun fact: I’m super friendly and always excited to collaborate on fun projects!
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://stackoverflow.com/users/25187677" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://discord.com/users/1414373639826178120" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
 
 ---
 
